@@ -1,0 +1,1 @@
+La actividad fue realizar el juego de TATETI pero para una pagina web, toda la logica fue hecha en JS, agregando algo de estilos con el css, y un 2do script que solo era para cambiar el color del nombre del jugador que esté jugando.
